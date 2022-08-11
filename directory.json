@@ -1,0 +1,155 @@
+[
+  {
+    "type": "file",
+    "name": "README.md"
+  },
+  {
+    "type": "file",
+    "name": "archive.json"
+  },
+  {
+    "type": "directory",
+    "name": "dasar-web-pragamming",
+    "contents": [
+      {
+        "type": "directory",
+        "name": "1.muqoddimah",
+        "contents": [
+          {
+            "type": "file",
+            "name": "index.md"
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "2.perlengkapan-coding",
+        "contents": [
+          {
+            "type": "file",
+            "name": "1.code-editor.md"
+          },
+          {
+            "type": "file",
+            "name": "2.localhost.md"
+          },
+          {
+            "type": "file",
+            "name": "3.browser.md"
+          },
+          {
+            "type": "file",
+            "name": "4.mengenal-git.md"
+          },
+          {
+            "type": "file",
+            "name": "5.github-desktop.md"
+          },
+          {
+            "type": "directory",
+            "name": "assets",
+            "contents": [
+              {
+                "type": "file",
+                "name": "Memilih-code-editor-terbaik.webp"
+              },
+              {
+                "type": "file",
+                "name": "Sebelum-Menggunakan-Git.webp"
+              },
+              {
+                "type": "file",
+                "name": "Setelah-Menggunakan-Git.webp"
+              },
+              {
+                "type": "file",
+                "name": "Visual-Code-Studio.webp"
+              },
+              {
+                "type": "file",
+                "name": "atom-code-editor.webp"
+              },
+              {
+                "type": "file",
+                "name": "chrome-dev.webp"
+              },
+              {
+                "type": "file",
+                "name": "firefox-for-developer-edition.webp"
+              },
+              {
+                "type": "file",
+                "name": "github-desktop-commit-message.webp"
+              },
+              {
+                "type": "file",
+                "name": "github-desktop-screenshot-mac.webp"
+              },
+              {
+                "type": "file",
+                "name": "github-desktop-tracking.webp"
+              },
+              {
+                "type": "file",
+                "name": "lambadatest-lt-browser.webp"
+              },
+              {
+                "type": "file",
+                "name": "manage-project-github-desktop.webp"
+              },
+              {
+                "type": "file",
+                "name": "multi-device-set.webp"
+              },
+              {
+                "type": "file",
+                "name": "polypane.webp"
+              },
+              {
+                "type": "file",
+                "name": "sistem-git.webp"
+              },
+              {
+                "type": "file",
+                "name": "sublimetext-code-editor.webp"
+              },
+              {
+                "type": "file",
+                "name": "vim-code-editor.webp"
+              },
+              {
+                "type": "file",
+                "name": "webstorm-main.webp"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "directory",
+        "name": "3.dasar-dasar-membuat-web"
+      },
+      {
+        "type": "directory",
+        "name": "4.framework"
+      },
+      {
+        "type": "directory",
+        "name": "5.praktek-coding"
+      },
+      {
+        "type": "directory",
+        "name": "6.deployment"
+      },
+      {
+        "type": "file",
+        "name": "archive.json"
+      }
+    ]
+  },
+  {
+    "type": "file",
+    "name": "directory.json"
+  }
+]
+ 
