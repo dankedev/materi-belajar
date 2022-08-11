@@ -1,155 +1,299 @@
 [
-  {
-    "type": "file",
-    "name": "README.md"
-  },
-  {
-    "type": "file",
-    "name": "archive.json"
-  },
-  {
-    "type": "directory",
-    "name": "dasar-web-pragamming",
-    "contents": [
-      {
-        "type": "directory",
-        "name": "1.muqoddimah",
-        "contents": [
-          {
-            "type": "file",
-            "name": "index.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "2.perlengkapan-coding",
-        "contents": [
-          {
-            "type": "file",
-            "name": "1.code-editor.md"
-          },
-          {
-            "type": "file",
-            "name": "2.localhost.md"
-          },
-          {
-            "type": "file",
-            "name": "3.browser.md"
-          },
-          {
-            "type": "file",
-            "name": "4.mengenal-git.md"
-          },
-          {
-            "type": "file",
-            "name": "5.github-desktop.md"
-          },
-          {
-            "type": "directory",
-            "name": "assets",
-            "contents": [
-              {
-                "type": "file",
-                "name": "Memilih-code-editor-terbaik.webp"
-              },
-              {
-                "type": "file",
-                "name": "Sebelum-Menggunakan-Git.webp"
-              },
-              {
-                "type": "file",
-                "name": "Setelah-Menggunakan-Git.webp"
-              },
-              {
-                "type": "file",
-                "name": "Visual-Code-Studio.webp"
-              },
-              {
-                "type": "file",
-                "name": "atom-code-editor.webp"
-              },
-              {
-                "type": "file",
-                "name": "chrome-dev.webp"
-              },
-              {
-                "type": "file",
-                "name": "firefox-for-developer-edition.webp"
-              },
-              {
-                "type": "file",
-                "name": "github-desktop-commit-message.webp"
-              },
-              {
-                "type": "file",
-                "name": "github-desktop-screenshot-mac.webp"
-              },
-              {
-                "type": "file",
-                "name": "github-desktop-tracking.webp"
-              },
-              {
-                "type": "file",
-                "name": "lambadatest-lt-browser.webp"
-              },
-              {
-                "type": "file",
-                "name": "manage-project-github-desktop.webp"
-              },
-              {
-                "type": "file",
-                "name": "multi-device-set.webp"
-              },
-              {
-                "type": "file",
-                "name": "polypane.webp"
-              },
-              {
-                "type": "file",
-                "name": "sistem-git.webp"
-              },
-              {
-                "type": "file",
-                "name": "sublimetext-code-editor.webp"
-              },
-              {
-                "type": "file",
-                "name": "vim-code-editor.webp"
-              },
-              {
-                "type": "file",
-                "name": "webstorm-main.webp"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "3.dasar-dasar-membuat-web"
-      },
-      {
-        "type": "directory",
-        "name": "4.framework"
-      },
-      {
-        "type": "directory",
-        "name": "5.praktek-coding"
-      },
-      {
-        "type": "directory",
-        "name": "6.deployment"
-      },
-      {
-        "type": "file",
-        "name": "archive.json"
-      }
-    ]
-  },
-  {
-    "type": "file",
-    "name": "directory.json"
-  }
+  {"type":"directory","name":".","contents":[
+    {"type":"file","name":".DS_Store"},
+    {"type":"directory","name":".git","contents":[
+      {"type":"file","name":"COMMIT_EDITMSG"},
+      {"type":"file","name":"FETCH_HEAD"},
+      {"type":"file","name":"HEAD"},
+      {"type":"file","name":"config"},
+      {"type":"file","name":"description"},
+      {"type":"directory","name":"hooks","contents":[
+        {"type":"file","name":"applypatch-msg.sample"},
+        {"type":"file","name":"commit-msg.sample"},
+        {"type":"file","name":"fsmonitor-watchman.sample"},
+        {"type":"file","name":"post-update.sample"},
+        {"type":"file","name":"pre-applypatch.sample"},
+        {"type":"file","name":"pre-commit.sample"},
+        {"type":"file","name":"pre-merge-commit.sample"},
+        {"type":"file","name":"pre-push.sample"},
+        {"type":"file","name":"pre-rebase.sample"},
+        {"type":"file","name":"pre-receive.sample"},
+        {"type":"file","name":"prepare-commit-msg.sample"},
+        {"type":"file","name":"push-to-checkout.sample"},
+        {"type":"file","name":"update.sample"}
+    ]},
+      {"type":"file","name":"index"},
+      {"type":"directory","name":"info","contents":[
+        {"type":"file","name":"exclude"}
+    ]},
+      {"type":"directory","name":"logs","contents":[
+        {"type":"file","name":"HEAD"},
+        {"type":"directory","name":"refs","contents":[
+          {"type":"directory","name":"heads","contents":[
+            {"type":"file","name":"master"}
+        ]},
+          {"type":"directory","name":"remotes","contents":[
+            {"type":"directory","name":"origin","contents":[
+              {"type":"file","name":"master"}
+          ]}
+        ]}
+      ]}
+    ]},
+      {"type":"directory","name":"objects","contents":[
+        {"type":"directory","name":"00","contents":[
+          {"type":"file","name":"26a9215917a2ee38d7d5a5f88cb78d7eebe318"}
+      ]},
+        {"type":"directory","name":"02","contents":[
+          {"type":"file","name":"32884bb33d8781e42ba12d342fc4e44dc7b89e"},
+          {"type":"file","name":"32df625675801ae647c21e1c514ad3bac77270"}
+      ]},
+        {"type":"directory","name":"04","contents":[
+          {"type":"file","name":"5adfbf00570408fc6ba499e81be4bdef18f3d2"}
+      ]},
+        {"type":"directory","name":"06","contents":[
+          {"type":"file","name":"433f83ea1c8ff88b6a7d76c3d6b88319f32724"}
+      ]},
+        {"type":"directory","name":"0b","contents":[
+          {"type":"file","name":"cf39940dc480287ee4bb7f051384d89e7961e5"}
+      ]},
+        {"type":"directory","name":"11","contents":[
+          {"type":"file","name":"53bd72cad404aca145de5a47b4144020bd9042"}
+      ]},
+        {"type":"directory","name":"13","contents":[
+          {"type":"file","name":"94786258617b5c7e0c980cff304617c2a96a45"}
+      ]},
+        {"type":"directory","name":"14","contents":[
+          {"type":"file","name":"8db72f2398c5b68bdebbf37e0327df1588a11e"}
+      ]},
+        {"type":"directory","name":"15","contents":[
+          {"type":"file","name":"6f67fc9a1790330d2ebc5bed2c1789cc977a53"},
+          {"type":"file","name":"f51b1eba2d54b81bc08111f3485441c3d6a3b5"}
+      ]},
+        {"type":"directory","name":"1a","contents":[
+          {"type":"file","name":"d95907d2a69a8dd7f416f529ba3a5c5b66ccfd"}
+      ]},
+        {"type":"directory","name":"1b","contents":[
+          {"type":"file","name":"70f70f18c601a1defec7c6cbb8867c164a28da"}
+      ]},
+        {"type":"directory","name":"29","contents":[
+          {"type":"file","name":"87f660f54ba9a6e4e45f9d251e16e3d6ac04c9"}
+      ]},
+        {"type":"directory","name":"30","contents":[
+          {"type":"file","name":"5c4e38b3af34857d32acb67a211d63a631d918"}
+      ]},
+        {"type":"directory","name":"33","contents":[
+          {"type":"file","name":"cb9aae7204cb8e738af873c2e26807dd863a92"}
+      ]},
+        {"type":"directory","name":"39","contents":[
+          {"type":"file","name":"5910e37765ddc44ee8cc265a1b6faf76615bf2"}
+      ]},
+        {"type":"directory","name":"3d","contents":[
+          {"type":"file","name":"c2f8554ecca6c138593da7132d4d292114f5e1"}
+      ]},
+        {"type":"directory","name":"3e","contents":[
+          {"type":"file","name":"46a4d3a16024fe10b90072a0d84a3b1fbd839d"}
+      ]},
+        {"type":"directory","name":"41","contents":[
+          {"type":"file","name":"3e688d563288d56a6dd402b35e852724069bfb"}
+      ]},
+        {"type":"directory","name":"43","contents":[
+          {"type":"file","name":"e0bf51afce68dcfd16399c51c3b4a41a98c856"}
+      ]},
+        {"type":"directory","name":"44","contents":[
+          {"type":"file","name":"305e1a5baf01ae1badef6c6d6ea68a71133c1a"}
+      ]},
+        {"type":"directory","name":"4c","contents":[
+          {"type":"file","name":"9481e6a362c195136b2e787934cc8ffeedf986"}
+      ]},
+        {"type":"directory","name":"4f","contents":[
+          {"type":"file","name":"4742a630db198d2b8ef47d62f0f055f89d05df"}
+      ]},
+        {"type":"directory","name":"55","contents":[
+          {"type":"file","name":"13841c05673c5d0a5011ec5e77acd5cf363c7e"}
+      ]},
+        {"type":"directory","name":"5d","contents":[
+          {"type":"file","name":"d997b7bddb8910917046afc09c6e8d8adfc4da"}
+      ]},
+        {"type":"directory","name":"5f","contents":[
+          {"type":"file","name":"4ea3b65917fb9b4604c9f500743cd7e9604334"}
+      ]},
+        {"type":"directory","name":"6d","contents":[
+          {"type":"file","name":"4104b52d82795e012a13438962572dd80ce6c1"},
+          {"type":"file","name":"6a1d9ae6b859022dd576e43ea3a4bba36c06e3"}
+      ]},
+        {"type":"directory","name":"6f","contents":[
+          {"type":"file","name":"325c2078bb91cb396cb7d109f09890b4856aa2"},
+          {"type":"file","name":"fb9428113486623bee5f2ca7cf0b605fa334af"}
+      ]},
+        {"type":"directory","name":"85","contents":[
+          {"type":"file","name":"0398867e1d5d9dbc6eba02759e9800c2b607be"}
+      ]},
+        {"type":"directory","name":"86","contents":[
+          {"type":"file","name":"ba7904555f05197d7f5291bab0782bb3fdda84"}
+      ]},
+        {"type":"directory","name":"8a","contents":[
+          {"type":"file","name":"5029f951360ff2bdee262708ebb4777181eab5"}
+      ]},
+        {"type":"directory","name":"8c","contents":[
+          {"type":"file","name":"8e72ff785544af8b05556bcd005b058046811b"}
+      ]},
+        {"type":"directory","name":"90","contents":[
+          {"type":"file","name":"4ec1210c24267e22c92bca3f71946fc1bd98dc"}
+      ]},
+        {"type":"directory","name":"9a","contents":[
+          {"type":"file","name":"37373630911b22e454cf6046fc9b08b4c6f321"},
+          {"type":"file","name":"39a1722ba528ea3e512caf334fe56be83c5dad"}
+      ]},
+        {"type":"directory","name":"9b","contents":[
+          {"type":"file","name":"82ab0fbc3e1c9ec4d29036d39f8505c93cb21d"}
+      ]},
+        {"type":"directory","name":"a1","contents":[
+          {"type":"file","name":"97d61344d165c7b7d7584145383dc74daaaf97"}
+      ]},
+        {"type":"directory","name":"b4","contents":[
+          {"type":"file","name":"b8e64cfc558758384eff95cf6b1c7de1065239"}
+      ]},
+        {"type":"directory","name":"ba","contents":[
+          {"type":"file","name":"1eb0920f423245ad1da44133cba7b303760d75"},
+          {"type":"file","name":"56f015ac8b7a1537b99298dc2fc824495e0e2a"}
+      ]},
+        {"type":"directory","name":"c0","contents":[
+          {"type":"file","name":"263aa0d5b3ccf4866dbe9c1d4821fb578bbf54"}
+      ]},
+        {"type":"directory","name":"c2","contents":[
+          {"type":"file","name":"ace69351ce316a428bc32daea76d3c72804adf"}
+      ]},
+        {"type":"directory","name":"c4","contents":[
+          {"type":"file","name":"f3473a94b671e3092e05df061441070956cd32"}
+      ]},
+        {"type":"directory","name":"cb","contents":[
+          {"type":"file","name":"4c919619e003ae9dbba514e1390db0e757ac15"}
+      ]},
+        {"type":"directory","name":"ce","contents":[
+          {"type":"file","name":"099ac378be7cd065bf2e829fca0c8d971719a6"},
+          {"type":"file","name":"19c10d7b63b939a78bb9029cfeae6f40da29f3"},
+          {"type":"file","name":"e9beb7aa922b3422701735e0d2c2a04b36e7be"}
+      ]},
+        {"type":"directory","name":"d5","contents":[
+          {"type":"file","name":"2ddc64758712b4da9e3fedf1e2f18bb02eb545"}
+      ]},
+        {"type":"directory","name":"d6","contents":[
+          {"type":"file","name":"147480a262a28075f5f67aa66f8d8f7fa82650"}
+      ]},
+        {"type":"directory","name":"d8","contents":[
+          {"type":"file","name":"c1e94a043974dc9fcb33e2c56ba810eeb484b5"},
+          {"type":"file","name":"d384d152722c2713323116454cda5db478bd80"}
+      ]},
+        {"type":"directory","name":"d9","contents":[
+          {"type":"file","name":"5406c2da8ed37796ba5aac70db47aaf4c7a3a1"},
+          {"type":"file","name":"648f3c10b44deb822652c4ad0d06fd4aa805d1"}
+      ]},
+        {"type":"directory","name":"da","contents":[
+          {"type":"file","name":"b5f3d37dd5d3368786c8455fda5f4539bb92f4"}
+      ]},
+        {"type":"directory","name":"dd","contents":[
+          {"type":"file","name":"808e00a51458b9eca72313374109e2c1cca83d"}
+      ]},
+        {"type":"directory","name":"de","contents":[
+          {"type":"file","name":"be217de3c156a8892ff66c55c6c752abb37afc"}
+      ]},
+        {"type":"directory","name":"df","contents":[
+          {"type":"file","name":"d87523a2942b318f1de3b214568eae6ef15b2f"}
+      ]},
+        {"type":"directory","name":"e6","contents":[
+          {"type":"file","name":"9de29bb2d1d6434b8b29ae775ad8c2e48c5391"}
+      ]},
+        {"type":"directory","name":"ea","contents":[
+          {"type":"file","name":"447d84d51beeb7a2b19bea78a55baa6deabc7f"},
+          {"type":"file","name":"544303e1d3e90a56e2cf6cb31c50b26a6587fe"},
+          {"type":"file","name":"c2c038a265e1e81fb2723cf9531e2f76c7c31c"}
+      ]},
+        {"type":"directory","name":"ed","contents":[
+          {"type":"file","name":"14edaf1971db17fae28cfbe4faa9a9c4683edb"}
+      ]},
+        {"type":"directory","name":"ee","contents":[
+          {"type":"file","name":"790338bdb91dbf513b3ae067c60c32a5caf219"}
+      ]},
+        {"type":"directory","name":"f1","contents":[
+          {"type":"file","name":"8f951d957464354352176da202b114cc7c4c41"}
+      ]},
+        {"type":"directory","name":"f2","contents":[
+          {"type":"file","name":"2a2d0a322f786ba96eef25bc8af8a000e79ea0"}
+      ]},
+        {"type":"directory","name":"f5","contents":[
+          {"type":"file","name":"1e7f49449e7369f70fec6f5ec4087376d70222"}
+      ]},
+        {"type":"directory","name":"fa","contents":[
+          {"type":"file","name":"48a37e3f6dddd31e9a2605722c83eecf509c51"}
+      ]},
+        {"type":"directory","name":"ff","contents":[
+          {"type":"file","name":"2ca4ba526b6eda38615d0b02dddc106c16047f"}
+      ]},
+        {"type":"directory","name":"info"},
+        {"type":"directory","name":"pack"}
+    ]},
+      {"type":"directory","name":"refs","contents":[
+        {"type":"directory","name":"heads","contents":[
+          {"type":"file","name":"master"}
+      ]},
+        {"type":"directory","name":"remotes","contents":[
+          {"type":"directory","name":"origin","contents":[
+            {"type":"file","name":"master"}
+        ]}
+      ]},
+        {"type":"directory","name":"tags"}
+    ]}
+  ]},
+    {"type":"file","name":"README.md"},
+    {"type":"file","name":"archive.json"},
+    {"type":"directory","name":"dasar-javascript","contents":[
+      {"type":"file","name":"cover.png"}
+  ]},
+    {"type":"directory","name":"dasar-php","contents":[
+      {"type":"file","name":".DS_Store"},
+      {"type":"file","name":"cover.png"}
+  ]},
+    {"type":"directory","name":"dasar-web-pragamming","contents":[
+      {"type":"file","name":".DS_Store"},
+      {"type":"directory","name":"1.muqoddimah","contents":[
+        {"type":"file","name":"index.md"}
+    ]},
+      {"type":"directory","name":"2.perlengkapan-coding","contents":[
+        {"type":"file","name":"1.code-editor.md"},
+        {"type":"file","name":"2.localhost.md"},
+        {"type":"file","name":"3.browser.md"},
+        {"type":"file","name":"4.mengenal-git.md"},
+        {"type":"file","name":"5.github-desktop.md"},
+        {"type":"directory","name":"assets","contents":[
+          {"type":"file","name":"Memilih-code-editor-terbaik.webp"},
+          {"type":"file","name":"Sebelum-Menggunakan-Git.webp"},
+          {"type":"file","name":"Setelah-Menggunakan-Git.webp"},
+          {"type":"file","name":"Visual-Code-Studio.webp"},
+          {"type":"file","name":"atom-code-editor.webp"},
+          {"type":"file","name":"chrome-dev.webp"},
+          {"type":"file","name":"firefox-for-developer-edition.webp"},
+          {"type":"file","name":"github-desktop-commit-message.webp"},
+          {"type":"file","name":"github-desktop-screenshot-mac.webp"},
+          {"type":"file","name":"github-desktop-tracking.webp"},
+          {"type":"file","name":"lambadatest-lt-browser.webp"},
+          {"type":"file","name":"manage-project-github-desktop.webp"},
+          {"type":"file","name":"multi-device-set.webp"},
+          {"type":"file","name":"polypane.webp"},
+          {"type":"file","name":"sistem-git.webp"},
+          {"type":"file","name":"sublimetext-code-editor.webp"},
+          {"type":"file","name":"vim-code-editor.webp"},
+          {"type":"file","name":"webstorm-main.webp"}
+      ]}
+    ]},
+      {"type":"directory","name":"3.dasar-dasar-membuat-web"},
+      {"type":"directory","name":"4.framework"},
+      {"type":"directory","name":"5.praktek-coding"},
+      {"type":"directory","name":"6.deployment"},
+      {"type":"file","name":"archive.json"},
+      {"type":"file","name":"cover.png"}
+  ]},
+    {"type":"file","name":"directory.json"}
+  ]}
+,
+  {"type":"report","directories":85,"files":130}
 ]
- 

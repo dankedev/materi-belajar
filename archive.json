@@ -2,16 +2,19 @@
   {
     "title": "Tutorial Web Programing",
     "path": "dasar-web-programing",
-    "description": "Belajar Web Programing dasar dari Nol. Pahami dasar-dasar yang sering dipakai. Lalu buat sendiri websitemu dengan HTML dan CSS."
+    "description": "Belajar Web Programing dasar dari Nol. Pahami dasar-dasar yang sering dipakai. Lalu buat sendiri websitemu dengan HTML dan CSS.",
+    "level":"pemula"
   },
   {
     "title": "Tutorial Javascript Dasar",
     "path": "dasar-javascript",
-    "description": "Kamau wajib belajar Javascript, karena javascript adalah bahasa universal yang bisa digunakan untuk membuat aplikasi web, server, desktop, mobile, game, IoT, dsb. "
+    "description": "Kamau wajib belajar Javascript, karena javascript adalah bahasa universal yang bisa digunakan untuk membuat aplikasi web, server, desktop, mobile, game, IoT, dsb. ",
+    "level": "pemula"
   },
   {
     "title": "Tutorial Dasar PHP",
     "path": "dasar-php",
-    "description": "Belajar PHP dari dasar untuk pemula. Sebagai dasar untuk memulai pelajaran yang lebih lanjut "
+    "description": "Belajar PHP dari dasar untuk pemula. Sebagai dasar untuk memulai pelajaran yang lebih lanjut ",
+    "level": "pemula"
   }
 ]
